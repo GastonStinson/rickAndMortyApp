@@ -1,0 +1,13 @@
+.cardContainer {
+    background-color: beige;
+    border-radius: 20px;
+    margin: 10px;
+    font-size: 0.8rem;
+    padding: 10px;
+}
+
+.imgContainer {
+    border-radius: 20px;
+    margin-top: 20px;
+}
+

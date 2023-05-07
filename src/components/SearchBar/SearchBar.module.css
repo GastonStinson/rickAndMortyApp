@@ -1,0 +1,20 @@
+.container {
+    display: flex;
+    justify-content: center;
+    margin: 2px 3px;
+}
+
+.searchBarButton {
+    background-color: red;
+    border-radius: 200px;
+}
+
+.searchBarButton:hover {
+    
+}
+
+.searchBarInput {
+    background-color:  rgb(174, 171, 171);
+    border-radius: 20px;
+    border: 2px;
+}
