@@ -1,0 +1,14 @@
+.contenedor {
+    background-color: darkgreen;
+}
+
+.contenedor input{
+    background-color: darkgrey; 
+    border-radius: 14px;
+}
+
+.contenedor button{
+    border-radius: 14px;
+    background-color:mediumpurple;
+    color: white;
+}

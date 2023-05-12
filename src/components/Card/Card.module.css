@@ -1,0 +1,28 @@
+.contenedor {
+    background-color: rgb(92, 176, 13) ;
+    width: 20vw;
+    border-radius: 30px;
+    border-style: dotted;
+    padding: 8px;
+    margin: 8px;
+}
+
+.contenedor img {
+    border-radius: 34px;
+    border-style: solid;
+    width: 80%;
+}
+
+.contenedor h2 {
+    font-size: 1rem;
+    color: rgb(43, 42, 42);
+}
+
+.contenedor button {
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    border-style: solid;
+    border-color: white;
+    border-width: 1px;
+}
